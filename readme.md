@@ -1,5 +1,7 @@
 # CV Filters — Demo
 
+**Live demo:** [cvfiltersdemo.streamlit.app](https://cvfiltersdemo.streamlit.app)
+
 A Streamlit app for uploading a grayscale image and applying manually implemented image processing filters. All filter logic is written from scratch using NumPy — no OpenCV filter functions are used. Images are kept in-memory and no uploads are stored on disk.
 
 ## Filters
